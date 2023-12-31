@@ -1,4 +1,4 @@
-Fitbit Dataset
+FITBIT DATASET
 
 1. Read this dataset in pandas , mysql and mongodb 
 2. while creting a table in mysql dont use manual approach to create it  ,always use a automation to create a table in mysql
